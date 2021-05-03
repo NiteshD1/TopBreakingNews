@@ -28,11 +28,11 @@ https://j.gifs.com/EqOGqk.gif
 - It uses Glide library to load News thumbnail Image
 
 ### Demo News API
-This gif shows newsapi.org which is used in this project.
+This gif shows News API(https://newsapi.org/) which is used in this project.
 
 
-https://j.gifs.com/gZ45rl.gif
-[![Demo CountPages alpha](https://j.gifs.com/gZ45rl.gif)]
+https://j.gifs.com/GRn267.gif
+[![Demo CountPages alpha](https://j.gifs.com/GRn267.gif)]
 
 
 
