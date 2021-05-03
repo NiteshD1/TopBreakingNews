@@ -13,12 +13,32 @@ https://j.gifs.com/EqOGqk.gif
 
 [![Demo CountPages alpha](https://j.gifs.com/EqOGqk.gif)] 
 
-##  Technology Used
-1. It uses MVVM architecture
-2. It uses Retrofit for API calls
-3. It uses Room database to store data locally
+## Technology used
 
-##  Demo
+### Front End Development 
+- Ui is designed with xml language in android studio. 
+- Logo and other graphics is designed with photoshop. 
 
-#### Demo youtube video link of Application - https://youtu.be/t96wkApy5yo
-#### Android Apk link - https://drive.google.com/file/d/1joY9OMpGbQPayHsVfbri0SJ6b2PzTORW/view?usp=sharing
+### Back End Development
+
+- This project is build in kotlin language.
+- It uses MVVM(Model View View Model) Architecture
+- It uses Room Database for the local database to store news in the local device
+- It uses Retrofit for the API Request to fetch news from the newsapi.org
+- It uses Glide library to load News thumbnail Image
+
+### Demo News API
+This gif shows newsapi.org which is used in this project.
+
+
+https://j.gifs.com/gZ45rl.gif
+[![Demo CountPages alpha](https://j.gifs.com/gZ45rl.gif)]
+
+
+
+#### Related Link
+- You can find this app on playstore by clicking [**here**](https://play.google.com/store/apps/details?id=com.testyo.org)
+- Watch demo video on youtube by clicking [**here**](https://youtu.be/t96wkApy5yo)
+
+
+
