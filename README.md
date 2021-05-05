@@ -13,6 +13,9 @@ https://j.gifs.com/EqOGqk.gif
 
 [![Demo CountPages alpha](https://j.gifs.com/EqOGqk.gif)] 
 
+##  Screenshots
+![alt text](https://drive.google.com/file/d/1up0tNz4w0kLbEm2MeNln1OmZCg6Q_NYp/view?usp=sharing)
+
 ## Technology used
 
 ### Front End Development 
@@ -37,11 +40,11 @@ https://j.gifs.com/GRn267.gif
 
 
 #### Related Link
-- You can find this app on playstore by clicking [**here**](https://play.google.com/store/apps/details?id=com.testyo.org)
+- Download demo application by clicking [**here**](https://drive.google.com/file/d/1joY9OMpGbQPayHsVfbri0SJ6b2PzTORW/view?usp=sharing)
 - Watch demo video on youtube by clicking [**here**](https://youtu.be/t96wkApy5yo)
 
 ##### Note*
-This appllication is not published on play store because Google Play Store not allowed news app without any authorization.
+This appllication is not published on Play Store because Google Play Policy does not allow news app without any authorization.
 
 
 
