@@ -40,5 +40,8 @@ https://j.gifs.com/GRn267.gif
 - You can find this app on playstore by clicking [**here**](https://play.google.com/store/apps/details?id=com.testyo.org)
 - Watch demo video on youtube by clicking [**here**](https://youtu.be/t96wkApy5yo)
 
+##### Note*
+This appllication is not published on play store because Google Play Store not allowed news app without any authorization.
+
 
 
