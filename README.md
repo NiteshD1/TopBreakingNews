@@ -14,7 +14,7 @@ https://j.gifs.com/EqOGqk.gif
 [![Demo CountPages alpha](https://j.gifs.com/EqOGqk.gif)] 
 
 ##  Screenshots
-![alt text](https://drive.google.com/file/d/1up0tNz4w0kLbEm2MeNln1OmZCg6Q_NYp/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1up0tNz4w0kLbEm2MeNln1OmZCg6Q_NYp/view)
 
 ## Technology used
 
