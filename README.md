@@ -13,8 +13,6 @@ https://j.gifs.com/EqOGqk.gif
 
 [![Demo CountPages alpha](https://j.gifs.com/EqOGqk.gif)] 
 
-##  Screenshots
-![alt text](https://drive.google.com/file/d/1up0tNz4w0kLbEm2MeNln1OmZCg6Q_NYp/view)
 
 ## Technology used
 
@@ -44,7 +42,7 @@ https://j.gifs.com/GRn267.gif
 - Watch demo video on youtube by clicking [**here**](https://youtu.be/t96wkApy5yo)
 
 ##### Note*
-This appllication is not published on Play Store because Google Play Policy does not allow news app without any authorization.
+This appllication is not published on Play Store because Google Play Policy does not allow News app without any authorization.
 
 
 
