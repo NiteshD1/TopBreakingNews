@@ -41,8 +41,6 @@ https://j.gifs.com/GRn267.gif
 - Download demo application by clicking [**here**](https://drive.google.com/file/d/1joY9OMpGbQPayHsVfbri0SJ6b2PzTORW/view?usp=sharing)
 - Watch demo video on youtube by clicking [**here**](https://youtu.be/t96wkApy5yo)
 
-##### Note*
-This appllication is not published on Play Store because Google Play Policy does not allow News app without any authorization.
 
 
 
