@@ -6,12 +6,10 @@ It is an android application which fetches news from https://newsapi.org/ API an
 3. Search news which you want to read
 
 
-##  Demo
+##  App Preview
 
 
-https://j.gifs.com/EqOGqk.gif
-
-[![Demo CountPages alpha](https://j.gifs.com/EqOGqk.gif)] 
+![Top News Preview](TopNewsPreview.gif)
 
 
 ## Technology and tools used
@@ -23,14 +21,6 @@ https://j.gifs.com/EqOGqk.gif
 - It uses Room Database for the local database to store news in the local device
 - It uses Retrofit for the API Request to fetch news from the newsapi.org
 - It uses Glide library to load News thumbnail Image
-
-### Demo News API
-This gif shows News API(https://newsapi.org/) which is used in this project.
-
-
-https://j.gifs.com/GRn267.gif
-[![Demo CountPages alpha](https://j.gifs.com/GRn267.gif)]
-
 
 
 #### Related Link
